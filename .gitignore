@@ -1,0 +1,18 @@
+# Dependencias pesadas de Node y Cordova
+node_modules/
+platforms/
+plugins/
+
+# Archivos de configuración local y editores
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Claves de firma de Android y compilaciones
+*.keystore
+*.jks
+*.apk
+*.aab
