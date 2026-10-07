@@ -1,18 +1,21 @@
 <div align="center">
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/aa07d478-d33a-4b3c-b564-9fee979f6c9f" />
+
+<div align="center">
+
 # ⚡ TitanMonitor
 
 **Calculadora de Arbitraje P2P, Monitor de Tasas y Agenda Financiera Inteligente con IA para Venezuela 🇻🇪**
 
 [![GitHub release](https://img.shields.io/github/v/release/TitanMonitor/TitanMonitor?color=00F0FF&style=for-the-badge&logo=github)](https://github.com/TitanMonitor/TitanMonitor/releases/latest)
-[![PWA Status](https://img.shields.io/badge/PWA-Ready-10B981?style=for-the-badge&logo=pwa)](https://titanmonitor.github.io/TitanMonitor)
+[![Android App](https://img.shields.io/badge/Android-APK_Ready-3DDC84?style=for-the-badge&logo=android)](https://github.com/TitanMonitor/TitanMonitor/releases/latest)
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Capacitor](https://img.shields.io/badge/Capacitor-Android-1192EE?style=for-the-badge&logo=capacitor)](https://capacitorjs.com/)
 [![Gemini AI](https://img.shields.io/badge/Google_Gemini-Multimodal-8E75B2?style=for-the-badge&logo=googlegemini)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-[📱 Descargar APK Directo](https://github.com/TitanMonitor/TitanMonitor/releases/latest) • [🌐 Abrir Web App (PWA)](https://titanmonitor.github.io/TitanMonitor) • [🐛 Reportar Error / Sugerencia](https://github.com/TitanMonitor/TitanMonitor/issues)
+[📱 Descargar APK Android (Última Versión)](https://github.com/TitanMonitor/TitanMonitor/releases/latest) • [🐛 Reportar Error / Sugerencia](https://github.com/TitanMonitor/TitanMonitor/issues)
 
 </div>
 
@@ -68,7 +71,7 @@ Combina la monitorización de tasas oficiales y del mercado en tiempo real, cál
 | **Visualización** | Recharts, Lucide Icons |
 | **Inteligencia Artificial** | Google GenAI SDK (`@google/genai`), Gemini Multimodal (Voz, OCR Visión y Chat) |
 | **Backend & Servidor** | Node.js, Express, TSX, esbuild |
-| **Móvil / PWA** | Capacitor (Android, Local Notifications), Web App Manifest, Service Worker |
+| **Móvil** | Capacitor (Android, Local Notifications) |
 | **Build Tooling** | Vite 6 |
 
 ---
@@ -78,7 +81,7 @@ Combina la monitorización de tasas oficiales y del mercado en tiempo real, cál
 ```text
 TitanMonitor/
 ├── android/                   # Proyecto nativo Android configurado con Capacitor
-├── public/                    # Archivos estáticos y manifest PWA
+├── public/                    # Archivos estáticos
 ├── src/
 │   ├── assets/                # Iconos, logotipos y recursos gráficos
 │   ├── components/            # Componentes de la interfaz de usuario
