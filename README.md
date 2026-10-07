@@ -1,5 +1,5 @@
 <div align="center">
-
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/aa07d478-d33a-4b3c-b564-9fee979f6c9f" />
 # ⚡ TitanMonitor
 
 **Calculadora de Arbitraje P2P, Monitor de Tasas y Agenda Financiera Inteligente con IA para Venezuela 🇻🇪**
