@@ -8,7 +8,7 @@
 **Calculadora de Arbitraje P2P, Monitor de Tasas y Agenda Financiera Inteligente con IA para Venezuela 🇻🇪**
 
 [![GitHub release](https://img.shields.io/github/v/release/TitanMonitor/TitanMonitor?color=00F0FF&style=for-the-badge&logo=github)](https://github.com/Titan-Monitor/TitanMonitor/releases/latest)
-[![Android App](https://img.shields.io/badge/Android-APK_Ready-3DDC84?style=for-the-badge&logo=android)](https://github.com/TitanMonitor/TitanMonitor/releases/latest)
+[![Android App](https://img.shields.io/badge/Android-APK_Ready-3DDC84?style=for-the-badge&logo=android)](https://github.com/Titan-Monitor/TitanMonitor/releases/latest)
 [![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Capacitor](https://img.shields.io/badge/Capacitor-Android-1192EE?style=for-the-badge&logo=capacitor)](https://capacitorjs.com/)
